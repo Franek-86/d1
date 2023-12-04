@@ -1,0 +1,21 @@
+.locker__container {
+  height: 100%;
+  display: grid;
+  place-items: center;
+  #{&}__icon__container {
+    border: 0.5rem solid;
+    border-radius: 50%;
+    width: 9rem;
+    height: 9rem;
+    display: grid;
+    place-items: center;
+    align-content: center;
+    // padding: 2rem;
+    // font-size: 3rem;
+  }
+  #{&}__icon {
+    // border: 2px solid red;
+    font-size: 3rem;
+    transform: translateY(-5%);
+  }
+}
