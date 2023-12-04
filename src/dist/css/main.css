@@ -11904,10 +11904,8 @@ textarea.form-control-lg {
   width: 6em;
   height: 2rem;
   margin-left: -2.5em;
-  background-image: url("../../../public/images/test1.png");
+  background-image: url("../../../public/images/test1.1.png");
   border-radius: 0em;
-  border-top-right-radius: 0.5rem;
-  border-bottom-right-radius: 0.5rem;
   transition: background-position 0.15s ease-in-out;
 }
 
